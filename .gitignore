@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.jsonl
+*.pt
+*.pth
+*.bin
+*.ckpt
+.env
+venv/
